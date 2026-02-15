@@ -14,7 +14,6 @@ A small PowerShell script that collects comprehensive hardware and software deta
 - [Sample Output](#sample-output)
 - [Screenshot](#screenshot)
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ## Description
