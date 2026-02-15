@@ -53,7 +53,7 @@ This script is a standalone version of a remote inventory tool, adapted to run l
    The script will display "Report saves: [filename]" when done.
    The report file will be named `COMPUTER-INV-YYYY-MM-DD_HH-mm.txt` and placed in your specified folder.
 
-   ![image alt]([https://github.com/carlosgtztech/PSS-System-Reporter/images/Screenshot-report2.png](https://github.com/carlosgtztech/PS-System-Reporter/blob/d0f122925115d835a918e01c05fd993201dfda3e/images/Screenshot-report1.png))
+   ![image alt](https://github.com/carlosgtztech/PS-System-Reporter/blob/d0f122925115d835a918e01c05fd993201dfda3e/images/Screenshot-report1.png)
    
 
    **Sample Output**
