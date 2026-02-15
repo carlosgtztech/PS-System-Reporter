@@ -1,9 +1,9 @@
-# Local System Information PowerShell Script
+# PS-System-Reporter
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A lightweight PowerShell script that collects comprehensive hardware and software details from your local Windows machine and generates an easy-to-read text report. Perfect for asset inventory, troubleshooting, or documentation.
+A small PowerShell script that collects comprehensive hardware and software details from your local Windows machine and generates an easy-to-read text report. Perfect for asset inventory, troubleshooting, or documentation.
 
 ## Table of Contents
 - [Description](#description)
@@ -21,10 +21,10 @@ A lightweight PowerShell script that collects comprehensive hardware and softwar
 This script is a standalone version of a remote inventory tool, adapted to run locally. It gathers essential system information without requiring network access to other computers. The output is a timestamped text file saved to a folder of your choice.
 
 ## Features
-- **Operating System** – Captures OS name, version, build number, architecture, last boot time, and uptime.
-- **Processor** – Shows CPU name, manufacturer, core count, and max clock speed.
-- **Memory (RAM)** – Calculates total physical memory and lists the number of installed modules.
-- **Fixed Disks** – Reports drive letter, total size, free space, and usage percentage.
+- **Operating System** – Captures OS name, and version.
+- **Processor** – Shows CPU name, manufacturer, and core count.
+- **Memory (RAM)** – Calculates total physical memory.
+- **Fixed Disks** – Reports drive letter, total size, and free space.
 - **Network Adapters** – Lists active adapters with interface description, MAC address, and assigned IPv4 addresses.
 - **Installed Software** – Displays the top 50 installed applications (name, version, publisher).
 - **Remote Desktop Protocol (RDP) Status** – Checks registry setting, service state, and firewall rule.
