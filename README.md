@@ -10,9 +10,8 @@ A small PowerShell script that collects comprehensive hardware and software deta
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
+- [How to use](#how-to-use)
 - [Sample Output](#sample-output)
-- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 - [Author](#author)
 
@@ -56,16 +55,16 @@ This script is a standalone version of a remote inventory tool, adapted to run l
    ![image alt](https://github.com/carlosgtztech/PS-System-Reporter/blob/d0f122925115d835a918e01c05fd993201dfda3e/images/Screenshot-report1.png)
    
 
-   **Sample Output**
+## Sample Output
    Below is a trimmed example of the generated report:
    
   ![image alt](https://github.com/carlosgtztech/PS-System-Reporter/blob/main/images/Screenshot-report2.png?raw=true)
 
 ## Contributing
 **Contributions are welcome! Feel free to:**
-   Report bugs or suggest features via Issues.
-   Submit pull request for improvements
-   Share your ideas in the Discussions section.
+- Report bugs or suggest features via Issues.
+- Submit pull request for improvements
+- Share your ideas in the Discussions section.
 
 ## Author
 
