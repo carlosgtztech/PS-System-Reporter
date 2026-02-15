@@ -69,7 +69,7 @@ This script is a standalone version of a remote inventory tool, adapted to run l
 ## 👨‍💻 Author
 
 **Carlos Almendares**  
-<sub>Cybersecuirty student & Tech Enthusiast</sub>
+<sub>Cybersecurity student & Tech Enthusiast</sub>
 
 [![GitHub](https://img.shields.io/badge/GitHub-carlosgtztech-181717?style=for-the-badge&logo=github)](https://github.com/carlosgtztech)
 [![Email](https://img.shields.io/badge/Email-carlosgutierrez.it@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosgutierrez.it@gmail.com)
