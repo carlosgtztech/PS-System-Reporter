@@ -59,7 +59,7 @@ This script is a standalone version of a remote inventory tool, adapted to run l
    **Sample Output**
    Below is a trimmed example of the generated report:
    
-  ![image alt](https://github.com/carlosgtztech/PSS-System-Reporter/images/Screenshot-report1.png)
+  ![image alt](https://github.com/carlosgtztech/PS-System-Reporter/blob/main/images/Screenshot-report2.png?raw=true)
 
 ## Contributing
 **Contributions are welcome! Feel free to:**
