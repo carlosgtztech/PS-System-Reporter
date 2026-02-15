@@ -44,7 +44,7 @@ This script is a standalone version of a remote inventory tool, adapted to run l
    ```powershell
    cd C:\Path\To\Script
 3. **Run the script**:
-   cd .\LocalSystemInfo.ps1
+   cd `.\LocalSystemInfo.ps1`
 4. **Follow the prompts**:
    Enter your name (for report attribution).
    Enter the folder path where you want to save the report (e.g, `C:\Reports`).
