@@ -44,6 +44,14 @@ This script is a standalone version of a remote inventory tool, adapted to run l
 2. **Navigate to the script folder**:
    ```powershell
    cd C:\Path\To\Script
+3. **Run the script**:
+   cd .\LocalSystemInfo.ps1
+4. **Follow the prompts**:
+   Enter your name (for report attribution).
+   Enter the folder path where you want to save the report (e.g, `C:\Reports`).
+6. **Wait for completion**:
+   The script will display "Report saves: [filename]" when done.
+   The report file will be named `COMPUTER-INV-YYYY-MM-DD_HH-mm.txt` and placed in your specified folder.
 
 ## Contributing
 **Contributions are welcome! Feel free to:**
