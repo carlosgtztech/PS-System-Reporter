@@ -37,7 +37,7 @@ $disks = Get-CimInstance -ClassName Win32_LogicalDisk -Filter "DriveType=3"
 $netAdapter = Get-NetAdapter | Where-Object Status -eq 'Up'
 
 # Installed software from the registry
-$software = Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Where-Object DisplayName
+$software = Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Where-Object DisplayName | Select-Object DisplayName, DisplayVersion, Publisher
 
 # Remote Desktop Protocol (RDP) status 
 $RdpKey = "HKLM:\System\CurrentControlSet\Control\Terminal Server"
