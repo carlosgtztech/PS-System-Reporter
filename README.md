@@ -53,6 +53,10 @@ This script is a standalone version of a remote inventory tool, adapted to run l
    The script will display "Report saves: [filename]" when done.
    The report file will be named `COMPUTER-INV-YYYY-MM-DD_HH-mm.txt` and placed in your specified folder.
 
+   **Sample Output**
+   Below is a trimmed example of the generated report:
+   
+   
 ## Contributing
 **Contributions are welcome! Feel free to:**
    Report bugs or suggest features via Issues.
