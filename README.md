@@ -66,3 +66,8 @@ This script is a standalone version of a remote inventory tool, adapted to run l
    Report bugs or suggest features via Issues.
    Submit pull request for improvements
    Share your ideas in the Discussions section.
+
+## Author
+
+https://github.com/carlosgtztech | carlosgutierrez.it@gmail.com
+
