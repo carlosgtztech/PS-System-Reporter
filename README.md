@@ -40,8 +40,14 @@ This script is a standalone version of a remote inventory tool, adapted to run l
 2. **(Optional) Review the script** – Open it in a text editor to understand what it does.
 3. **Place it in a convenient folder** – e.g., `C:\Scripts` or your Desktop.
 
-## Usage
+## How to use
 1. **Open PowerShell as Administrator** (right-click PowerShell and select "Run as administrator").
 2. **Navigate to the script folder**:
    ```powershell
    cd C:\Path\To\Script
+
+## Contributing
+**Contributions are welcome! Feel free to:**
+   Report bugs or suggest features via Issues.
+   Submit pull request for improvements
+   Share your ideas in the Discussions section.
