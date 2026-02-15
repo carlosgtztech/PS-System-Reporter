@@ -62,7 +62,7 @@ This script is a standalone version of a remote inventory tool, adapted to run l
 
 ## Contributing
 **Contributions are welcome! Feel free to:**
-- Report bugs or suggest features via Issues.
+- Report bugs or suggest features via [Issues](https://github.com/carlosgtztech/PS-System-Reporter/issues).
 - Submit pull request for improvements
 - Share your ideas in the Discussions section.
 
