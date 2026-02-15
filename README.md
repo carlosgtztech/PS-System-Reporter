@@ -55,7 +55,7 @@ This script is a standalone version of a remote inventory tool, adapted to run l
 
    **Sample Output**
    Below is a trimmed example of the generated report:
-   
+   https://images/Screenshot from 2026-02-15 13-32-06.png
    
 ## Contributing
 **Contributions are welcome! Feel free to:**
